@@ -180,22 +180,5 @@ Based on the business requirements, the pipeline supports the following analytic
 
 Refer to [`Business_Requirement.docx`](./Business_Requirement.docx) for the full list of stakeholder requirements, KPI definitions, and expected dashboard outputs.
 
----
 
-## 💡 Key Learnings
 
-- Implementing the **Medallion Architecture** in Snowflake for progressive data refinement
-- Using Snowflake's **COPY INTO** command for efficient bulk data loading
-- Writing **modular SQL transformations** across pipeline layers
-- Designing **aggregation tables** optimized for BI dashboard consumption
-- Understanding hotel domain metrics such as ADR, RevPAR, and occupancy rates
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> ⭐ If you found this project helpful, please consider giving it a star!
